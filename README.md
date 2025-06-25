@@ -35,8 +35,7 @@ self.root_dir = "/your/custom/path/to/hyperspectral/data"
 We provide the datasets :
 https://pan.baidu.com/s/1VdYe_JfshNE-fMEZKbk3rg?pwd=tn7w Extraction code: tn7w 
 
-
-4. Pretrained Models and Training Logs
+✅ Pretrained Models and Training Logs
 We provide the training logs and pretrained weights for reproducibility and further evaluation.
 You can download them from the following link:
 https://pan.baidu.com/s/1Ui1iKO4TkyssQMEIeln9ZA?pwd=8piq Extraction code: 8piq
